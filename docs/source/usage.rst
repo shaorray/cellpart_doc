@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use cellpart, first install it using pip:
+To use cellpart, first install it from `github <https://github.com/shaorray/cellpart>`_:
 
 .. code-block:: console
 
