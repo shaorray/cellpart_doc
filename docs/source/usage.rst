@@ -17,4 +17,9 @@ To use cellpart, first install it from `github <https://github.com/shaorray/cell
    install.packages("cellpart", type = "source", repo = NULL) # or locally install after download
 
 
+Input Data
+------------
 
+
+Snapshot steps
+------------
