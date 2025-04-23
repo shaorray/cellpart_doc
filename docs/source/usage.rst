@@ -8,7 +8,7 @@ Installation
 
 To use cellpart, first install it from `github <https://github.com/shaorray/cellpart>`_:
 
-.. code-block:: console
+.. code-block:: R
 
    BiocManager::install("STRINGdb")  # required
 
@@ -17,9 +17,22 @@ To use cellpart, first install it from `github <https://github.com/shaorray/cell
    install.packages("cellpart", type = "source", repo = NULL) # or locally install after download
 
 
-Input Data
-------------
-
 
 Snapshot steps
 ------------
+
+Input Data
+~~~~~~~~~~
+
+
+
+
+main functions
+~~~~~~~~~~
+.. code-block:: R
+
+   get_contact_region()
+
+   plot_coord_value()
+
+   plot_region_border()
